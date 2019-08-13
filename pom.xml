@@ -8,6 +8,10 @@
         <module>hello</module>
         <module>ribbon-consumer</module>
         <module>feign</module>
+        <module>api</module>
+        <module>zuul</module>
+        <module>config-server</module>
+        <module>config-client</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
